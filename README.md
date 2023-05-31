@@ -1,4 +1,5 @@
 # MetaBridge
 
-![image]([https://github.com/MetaBridgeT/MetaBridgeT/assets/132153435/ebf8a799-295b-4af8-8fa1-f20747561e48](https://s11.gifyu.com/images/SumXY.gif))
+![SumXY](https://github.com/MetaBridgeT/MetaBridgeT/assets/132153435/b5f9750d-6b6f-476a-b39a-547508928e67)
+
 
