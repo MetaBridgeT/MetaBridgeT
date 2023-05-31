@@ -7,6 +7,6 @@
 
 **Explorer:** https://www.metabridge.network/
 
-**Documentation:** [https://metabridge-1.gitbook.io/metabrdige-sdk/](https://metabridge-1.gitbook.io/metabrdige-sdk/metabridge-sdk)
+**Documentation:** [https://metabridge-1.gitbook.io/metabridge-sdk/](https://metabridge-1.gitbook.io/metabrdige-sdk/metabridge-sdk)
 
 **Bridge-SDK:** https://github.com/MetaBridgeT/Bridge-SDK
